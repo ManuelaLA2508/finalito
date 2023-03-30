@@ -1,0 +1,115 @@
+@font-face {
+    font-family: dharma;
+    src: url(../fuentes/DharmaSlabE-Regular.ttf);
+}
+@font-face {
+    font-family: dosis;
+    src: url(../fuentes/Dosis-Medium\ \(1\).ttf);
+}
+
+
+.imglogo{
+    width: 70px;
+    height: 100px;
+}
+.menu{
+    background-color: rgb(237, 236, 236);
+    height: 30vh;
+}
+.nav{
+    color: black;
+}
+.nav-item:hover{
+    background-color: rgb(164, 164, 164);
+
+}
+.fondo{
+    background-color: rgb(211, 210, 210);
+    
+}
+
+.fondoseg{
+    width: 500px;
+    height: 400px;
+    filter: drop-shadow(0 0 5px black);
+}
+
+.obj{
+    font-family: dharma;
+    text-align: justify;
+}
+
+
+.obje{
+    font-family: dharma;
+    font-size: 20pt;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+
+.logseeg{
+    width: 200px;
+    height: 350px;
+}
+
+.acerca{
+    font-family: dharma;
+    color: red;
+    text-align: justify;
+}
+
+.parra{
+    font-family: dosis;
+    text-align: justify;
+}
+
+.botona1{
+    font-family: dharma;
+    letter-spacing: 1px;
+    text-align: justify;    
+}
+.porque{
+    color: rgb(182, 194, 8);
+}
+   
+
+.botona2{
+    font-family: dharma;
+    letter-spacing: 1px;
+}
+.nuestro{
+    color: green;
+}
+
+.parracordion{
+    font-family: dosis;
+    text-align: justify;
+}
+
+
+.cont{
+    background-color: rgb(211, 210, 210);
+}
+
+.sh{
+    font-family: dharma;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+
+.inte{
+    width: 300px;
+    height: 300px;
+    filter: drop-shadow(0 0 10px black);
+}
+
+.SEM{
+    font-family: dosis;
+    text-align: justify;
+}
+
+
+.pie{
+    width: 50px;
+    height: 50px;
+}
